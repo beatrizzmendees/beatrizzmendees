@@ -1,7 +1,7 @@
 ## Olá, eu sou a Beatriz Mendes.
  Graduanda em Engenharia de Materiais pela UNIFEI, e em busca de desenvolver novos conhecimentos na área da programação.
   
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ana-beatriz-mendes-de-sousa-a1b0a719a)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-mendes-de-sousa-a1b0a719a/)
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](beeatrizmeendes25@gmail.com)
 
 ![beatrizzmendees GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizzmendees&show_icons=true&theme=radical&count_private=true)
